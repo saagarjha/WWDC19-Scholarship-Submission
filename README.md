@@ -1,3 +1,3 @@
-# WWDC18-Scholarship-Submission
+# WWDC19-Scholarship-Submission
 
-Code for my submission to WWDC18. It's meant to be a short introduction on how Swift Playgrounds works. This was not actually my initial idea for a submission (the original one ended up being impossible), and was written in a very limited time frame; as such, it is written in a way that likely contains bugs or mistakes. The code here is how it was submitted to Apple; however, if you do have a correction I'd love to hear about it!
+Code for my submission to WWDC19. It's basically the same thing as [what I sumbitted last year](https://github.com/saagarjha/WWDC18-Scholarship-Submission), but with fixes so it actually runs. I'm lazy :P
